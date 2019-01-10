@@ -17,4 +17,4 @@ The simplest video downloader for USC DEN.
 5. Wait and be patient :-)
 
 ## Acknowledgements
-[latera1n/DEN-Video-Downloader](https://github.com/latera1n/DEN-Video-Downloader)
+* [latera1n/DEN-Video-Downloader](https://github.com/latera1n/DEN-Video-Downloader)

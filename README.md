@@ -17,9 +17,9 @@ The simplest video downloader for USC DEN.
 5. Wait and be patient :-)
 
 ### Recommended Follow-ups:
-* Auto-generate a subtitle w/ [autosub](https://github.com/agermanidis/autosub)
-* Play w/ [IINA](https://iina.io/) for macOS
-* Play w/ [PotPlayer](https://potplayer.daum.net/) for Windows
+* Auto-generate a subtitle w/ [`autosub`](https://github.com/agermanidis/autosub)
+* For macOS, play w/ [IINA](https://iina.io/)
+* For Windows, play w/ [PotPlayer](https://potplayer.daum.net/)
 
 ## Acknowledgements
 * [latera1n/DEN-Video-Downloader](https://github.com/latera1n/DEN-Video-Downloader)

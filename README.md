@@ -16,7 +16,7 @@ The simplest video downloader for USC DEN.
 4. Run `python den.py [LINK_ADDRESS]`
 5. Wait and be patient :-)
 
-### Recommended Follow-ups:
+### Recommended Follow-up(s):
 * Auto-generate a subtitle w/ [autosub](https://github.com/agermanidis/autosub)
 
 ## Acknowledgements

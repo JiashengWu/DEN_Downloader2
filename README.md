@@ -16,8 +16,10 @@ The simplest video downloader for USC DEN.
 4. Run `python den.py [LINK_ADDRESS]`
 5. Wait and be patient :-)
 
-### Recommended Follow-up(s):
+### Recommended Follow-ups:
 * Auto-generate a subtitle w/ [autosub](https://github.com/agermanidis/autosub)
+* Play w/ [IINA](https://iina.io/) for macOS
+* Play w/ [PotPlayer](https://potplayer.daum.net/) for Windows
 
 ## Acknowledgements
 * [latera1n/DEN-Video-Downloader](https://github.com/latera1n/DEN-Video-Downloader)

@@ -2,7 +2,7 @@
 
 The simplest video downloader for USC DEN.
 
-* Input: `.m3u8` URL copied from DEN
+* Input: `.m3u8` URL (copied from DEN)
 * Output: `.mp4` video file
 
 ## Prerequisites

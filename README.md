@@ -13,7 +13,7 @@ The simplest video downloader for USC DEN.
 1. Log in to DEN, and open the page of your lecture video
 2. Right click `Android/IOS` button under the video, then click `Copy Link Address`
 3. Download [`den.py`](https://raw.githubusercontent.com/JiashengWu/DEN_Downloader2/master/den.py) to your local directory
-4. Open a Terminal and `cd` into your directory, and run `python den.py [LINK_ADDRESS]`
+4. Open a Terminal, `cd` to your directory, and run `python den.py [LINK_ADDRESS]`
 5. Wait and be patient :-)
 
 ### Recommended Follow-ups:

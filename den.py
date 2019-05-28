@@ -3,7 +3,7 @@ import sys, os, re
 
 if __name__ == '__main__':
 
-	# from input, find url in format '...playlist\.m3u8'
+    # from input, find url in format '...playlist\.m3u8'
     link_url = sys.argv[1]
     playlist_url = re.match(r'.*playlist\.m3u8', link_url).group()
     

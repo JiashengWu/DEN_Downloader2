@@ -15,6 +15,7 @@ if __name__ == '__main__':
     os.system('ffmpeg -i %s -c copy -bsf:a aac_adtstoasc ~/Downloads/%s' % (playlist_url, video_name))
 
     # use _autosub_ to translate subtitle, if possible
+    # install _autosub_ first (only works for python2)
     # try:  	
     #     os.system('autosub ~/Downloads/%s' % (video_name))
     # except Exception as e:
